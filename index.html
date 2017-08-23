@@ -71,7 +71,7 @@ layout: landing
 							<ul class="features">
 								{% for post in site.posts %}
 					            <li>
-					            	<a href="{{ post.baseurl }}">
+					            	<a href="{{ post.url }}">
 					            		<h3>{{ post.title }}</h3>
 					            		<p>[{{ post.flag }}]</p>
 					            		<small>{{ post.date | date_to_string }}</small>
