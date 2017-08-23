@@ -1,1 +1,56 @@
-theme: jekyll-theme-merlot
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Bass Stuffs
+description: Bem vindo ao Bass Stuffs de Fabrício Santos. Aqui você vai encontrar vídeos e Coisas de Baixo. Aprenda como tocar músicas no baixo.
+owner: Fabrício Santos # or company name
+first_published: 2017 # if migrating another site, the year of your first publish
+email: fabriciohendrix.contato@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://bassstuffs.com" # the base hostname & protocol for your site
+social:
+  instagram: https://instagram.com/fabriciodass
+  youtube-square: https://www.youtube.com/channel/UCjUaEtReYf_d13sDmIIZOqw?sub_confirmation=1
+  facebook-official: https://facebook.com/fabriciodass
+  twitter: https://twitter.com/fabriciohendrix
+  #github: https://github.com/<username>
+  #linkedin-square: https://linkedin.com/in/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+  #flickr:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
