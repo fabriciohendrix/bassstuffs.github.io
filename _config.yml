@@ -2,7 +2,7 @@
 #
 
 # Site settings
-title: Bass Stuffsss
+title: Bass Stuffs
 description: Bem vindo ao Bass Stuffs de Fabrício Santos. Aqui você vai encontrar vídeos e Coisas de Baixo. Aprenda como tocar músicas no baixo.
 owner: Fabrício Santos # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
@@ -13,7 +13,7 @@ social:
   instagram: https://instagram.com/fabriciodass
   youtube-square: https://www.youtube.com/channel/UCjUaEtReYf_d13sDmIIZOqw?sub_confirmation=1
   facebook-official: https://facebook.com/fabriciodass
-  twitter: https://twitter.com/fabriciohendrix
+  #twitter: https://twitter.com/fabriciohendrix
   #github: https://github.com/<username>
   #linkedin-square: https://linkedin.com/in/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
